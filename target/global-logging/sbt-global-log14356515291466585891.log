@@ -1,0 +1,28 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(~testOnly fp3tests, Some(2dd24bce-ab1a-46c9-8d02-f6ce4a530f0b), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__runWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtStashOnFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__preWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly fp3tests, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mfp3tests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX01 - member[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX02 - allEqual[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX03 - stringLengths[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX04 - delete1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX05 - delete2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX06 - delete3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX07 - removeDupes1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX08 - removeDupes2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX09 - splitAt[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX10 - allDistinct[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 429 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 10, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 2 s, completed Jan 27, 2023, 10:49:54 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(resumeFromFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtPopOnFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__postWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__waitWatch console0, None, Some(CommandSource(console0)))[0m

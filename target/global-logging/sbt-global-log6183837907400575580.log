@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly fp2tests, Some(e67b6cd2-bc02-490d-b631-1ba549843b38), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mfp2tests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX01 - map[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX02 - filter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX03 - append[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX04 - flatten[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX05 - foldLeft[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX06 - foldRight[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX07 - joinTerminateRight[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX08 - joinTerminateLeft[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX09 - firstNumGreaterOrEqual[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- EX10 - firstIndexNumGreaterOrEqual[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 261 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 10, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed Jan 25, 2023, 12:07:02 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m

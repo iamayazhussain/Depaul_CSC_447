@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\iamay\Desktop\DePaul\ProgrammingConcepts\fp1.scala\hw\hw\src\test\scala\fp1tests.scala:90:14 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m90 |[0m      assert (maxList (xs) ===  res)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m              ^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m              Not found: maxList[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\iamay\Desktop\DePaul\ProgrammingConcepts\fp1.scala\hw\hw\src\test\scala\fp1tests.scala:93:56 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m93 |[0m      a [[35mNoSuchElementException[0m] `should` be thrownBy { maxList(xs) }[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                                        ^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                                      Not found: maxList[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

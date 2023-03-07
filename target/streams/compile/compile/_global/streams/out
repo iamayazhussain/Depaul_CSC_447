@@ -1,0 +1,21 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: C:\Users\iamay\Desktop\DePaul\ProgrammingConcepts\hw\src\main\scala\subtyping.scala:93:2 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m93 |[0m  [33mvar[0m [36mlist[0m : [35mList[0m[[35mInt[0m] = Nil;[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m  ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: C:\Users\iamay\Desktop\DePaul\ProgrammingConcepts\hw\src\main\scala\subtyping.scala:94:2 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m94 |[0m  [33mval[0m [36mm[0m = [33mnew[0m [35mObserveCounter[0m();[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m  ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: C:\Users\iamay\Desktop\DePaul\ProgrammingConcepts\hw\src\main\scala\subtyping.scala:95:2 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m95 |[0m  [33mval[0m [36mn[0m = [33mnew[0m [35mObserveCounter[0m();[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m  ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: C:\Users\iamay\Desktop\DePaul\ProgrammingConcepts\hw\src\main\scala\subtyping.scala:96:2 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m96 |[0m  [33mval[0m [36mq[0m = [33mnew[0m [35mObserveCounter[0m();[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m  ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: C:\Users\iamay\Desktop\DePaul\ProgrammingConcepts\hw\src\main\scala\subtyping.scala:97:2 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m97 |[0m  f(List(m, n, q));[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m  ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
